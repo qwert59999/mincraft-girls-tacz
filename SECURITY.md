@@ -7,11 +7,11 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
+| 1.18.2   | :white_check_mark: |
 | 5.0.x   | :x:                |
-| 1.20.x   | :white_check_mark: |
+| 1.20.1   | :white_check_mark: |
 | < 4.0   | :x:                |
-
+| 1.12.2  | :white_check_mark: |
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
